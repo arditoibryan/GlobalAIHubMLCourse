@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# Michelangiolo Mazzeschi repo
 ![](img/logo.png)
 
 **Course Date:**
